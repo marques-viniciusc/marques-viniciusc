@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Resolvendo bugs desde 2024;<br>📚 Estou aprendendo Python, SQL, Machine Learning e desenvolvendo habilidades em AWS;<br>🎯 Objetivos: Atuar como analista de dados<br>🎲 Curiosidade: Faço aula de chinês</p>
+<p align="left">✨ Resolvendo bugs desde 2024;<br>📚 Estou aprendendo Python, SQL, Machine Learning e desenvolvendo habilidades em AWS;<br>🎯 Objetivos: Atuar como analista de dados<br></p>
 
 ###
 
