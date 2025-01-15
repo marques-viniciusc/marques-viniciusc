@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Resolvendo bugs desde 2024;<br>📚 Estou aprendendo Python e SQL (Machine Learning tem sido uma nova descoberta);<br>🎯 Objetivos: Atuar como analista de dados<br>🎲 Curiosidade: Faço aula de chinês</p>
+<p align="left">✨ Resolvendo bugs desde 2024;<br>📚 Estou aprendendo Python, SQL, Machine Learning e desenvolvendo habilidades em AWS;<br>🎯 Objetivos: Atuar como analista de dados<br>🎲 Curiosidade: Faço aula de chinês</p>
 
 ###
 
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Eu trabalho com</h2>
 
 ###
 
@@ -31,9 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
   <img width="12" />
 
-  <!-- NoSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="nosql logo"/>
-  <img width="12" />
 </div>
 
 ###
